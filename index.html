@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Productos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">Catálogo de Productos</h1>
+            <p class="tagline">Descubre nuestros productos</p>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="filters">
+                <input type="text" id="searchInput" placeholder="Buscar productos..." class="search-box">
+                <select id="categoryFilter" class="category-filter">
+                    <option value="all">Todas las categorías</option>
+                </select>
+            </section>
+
+            <section class="products-section">
+                <h2 class="section-title">Nuestros Productos</h2>
+                <div id="productsGrid" class="products-grid loading">
+                    <!-- Loading spinner -->
+                    <div class="loading-spinner">
+                        <div class="spinner"></div>
+                        <p>Cargando productos...</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Modal de Producto -->
+    <div id="productModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modalBody" class="modal-body">
+                <!-- El contenido del modal se cargará aquí -->
+            </div>
+        </div>
+    </div>
+
+    <!-- ✅ PANEL DEL CARRITO -->
+    <div id="cartPanel" class="cart-panel minimized">
+        <div class="cart-header" onclick="toggleCart()">
+            <div class="cart-header-content">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="9" cy="21" r="1"></circle>
+                    <circle cx="20" cy="21" r="1"></circle>
+                    <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                </svg>
+                <span>Carrito de Compras</span>
+                <span class="cart-badge" id="cartCount">0</span>
+            </div>
+            <span class="cart-toggle-icon">▲</span>
+        </div>
+
+        <div class="cart-body">
+            <div id="emptyCartMessage" class="empty-cart">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                    <circle cx="9" cy="21" r="1"></circle>
+                    <circle cx="20" cy="21" r="1"></circle>
+                    <path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path>
+                </svg>
+                <p>Tu carrito está vacío</p>
+            </div>
+            <div id="cartItems" class="cart-items">
+                <!-- Los items del carrito se cargarán aquí -->
+            </div>
+        </div>
+
+        <div id="cartFooter" class="cart-footer" style="display: none;">
+            <div class="cart-total">
+                <span>Total:</span>
+                <span id="cartTotal" class="total-amount">$0.00</span>
+            </div>
+            <button class="checkout-btn" onclick="checkout()">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polyline points="20 6 9 17 4 12"></polyline>
+                </svg>
+                Finalizar Compra
+            </button>
+            <button class="clear-cart-btn" onclick="clearCart()">Vaciar Carrito</button>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Catálogo de Productos. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

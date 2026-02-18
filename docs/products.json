@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "2-PackColores-0",
+    "name": "Pack Colores",
+    "type": "2",
+    "typeName": "Pack Color",
+    "category": "Colores",
+    "price": 10,
+    "description": "Complementa tu experiencia con Pack Colores. Elige el color y cuántos quieres. Nota: El color real puede diferir.",
+    "specs": [
+      "Para Mayores de 6 años"
+    ],
+    "pieces": 1,
+    "buildHours": 0,
+    "images": [
+      "/Colores/2-Pack Colores/01.webp"
+    ],
+    "mainImage": "/Colores/2-Pack Colores/01.webp",
+    "isVariable": true,
+    "variableName": "Standard",
+    "customPrice": null,
+    "parentProduct": "2-Pack Colores",
+    "allVariants": [
+      "/Colores/2-Pack Colores/01.webp",
+      "/Colores/2-Pack Colores/02.webp",
+      "/Colores/2-Pack Colores/03.webp",
+      "/Colores/2-Pack Colores/04.webp",
+      "/Colores/2-Pack Colores/05.webp",
+      "/Colores/2-Pack Colores/06.webp",
+      "/Colores/2-Pack Colores/07.webp",
+      "/Colores/2-Pack Colores/08.webp",
+      "/Colores/2-Pack Colores/09.webp",
+      "/Colores/2-Pack Colores/10.webp",
+      "/Colores/2-Pack Colores/11.webp",
+      "/Colores/2-Pack Colores/12.webp",
+      "/Colores/2-Pack Colores/13.webp",
+      "/Colores/2-Pack Colores/14.webp",
+      "/Colores/2-Pack Colores/15.webp",
+      "/Colores/2-Pack Colores/16.webp",
+      "/Colores/2-Pack Colores/17.webp",
+      "/Colores/2-Pack Colores/18.webp",
+      "/Colores/2-Pack Colores/19.webp",
+      "/Colores/2-Pack Colores/20.webp",
+      "/Colores/2-Pack Colores/21.webp",
+      "/Colores/2-Pack Colores/22.webp",
+      "/Colores/2-Pack Colores/23.webp",
+      "/Colores/2-Pack Colores/24.webp",
+      "/Colores/2-Pack Colores/26.webp",
+      "/Colores/2-Pack Colores/27.webp",
+      "/Colores/2-Pack Colores/28.webp",
+      "/Colores/2-Pack Colores/29.webp",
+      "/Colores/2-Pack Colores/30.webp",
+      "/Colores/2-Pack Colores/31.webp",
+      "/Colores/2-Pack Colores/32.webp",
+      "/Colores/2-Pack Colores/33.webp",
+      "/Colores/2-Pack Colores/34.webp",
+      "/Colores/2-Pack Colores/35.webp",
+      "/Colores/2-Pack Colores/36.webp",
+      "/Colores/2-Pack Colores/38.webp",
+      "/Colores/2-Pack Colores/39.webp",
+      "/Colores/2-Pack Colores/40.webp",
+      "/Colores/2-Pack Colores/41.webp",
+      "/Colores/2-Pack Colores/42.webp",
+      "/Colores/2-Pack Colores/SURTIDO.webp"
+    ],
+    "totalVariants": 41
+  },
+  {
+    "id": "1771457958507ayicykzqv",
+    "name": "Bardock",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 4890,
+    "description": "Arma tu figura de Bardock con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 407",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 407,
+    "buildHours": 1,
+    "images": [
+      "/Dragon Ball/1-Bardock(407)/bardock1.webp",
+      "/Dragon Ball/1-Bardock(407)/bardock2.webp",
+      "/Dragon Ball/1-Bardock(407)/bardock3.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Bardock(407)/bardock1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958507wikwl7teh",
+    "name": "Black Goku Rosé",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 6190,
+    "description": "Arma tu figura de Black Goku Rosé con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 509",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 509,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Black Goku Rosé(509)/gokurose (1).webp",
+      "/Dragon Ball/1-Black Goku Rosé(509)/gokurose (2).webp",
+      "/Dragon Ball/1-Black Goku Rosé(509)/gokurose (4).webp",
+      "/Dragon Ball/1-Black Goku Rosé(509)/gokurose (5).webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Black Goku Rosé(509)/gokurose (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958508svedstp0f",
+    "name": "Broly",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 9290,
+    "description": "Arma tu figura de Broly con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 771",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 771,
+    "buildHours": 3,
+    "images": [
+      "/Dragon Ball/1-Broly(771)/broli.webp",
+      "/Dragon Ball/1-Broly(771)/broly2.webp",
+      "/Dragon Ball/1-Broly(771)/broly3.webp",
+      "/Dragon Ball/1-Broly(771)/broly4.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Broly(771)/broli.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "177145795850862n9sweoy",
+    "name": "Gogeta Blue",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 7490,
+    "description": "Arma tu figura de Gogeta Blue con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 616",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 616,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Gogeta Blue(616)/gogeta1.webp",
+      "/Dragon Ball/1-Gogeta Blue(616)/gogeta2.webp",
+      "/Dragon Ball/1-Gogeta Blue(616)/gogeta3.webp",
+      "/Dragon Ball/1-Gogeta Blue(616)/gogeta4.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Gogeta Blue(616)/gogeta1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585089l6ba25mo",
+    "name": "Gohan Futuro",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 7190,
+    "description": "Arma tu figura de Gohan Futuro con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 593",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 593,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Gohan Futuro(593)/gohanfutre2.webp",
+      "/Dragon Ball/1-Gohan Futuro(593)/gohanfuture1.webp",
+      "/Dragon Ball/1-Gohan Futuro(593)/gohanfuture3.webp",
+      "/Dragon Ball/1-Gohan Futuro(593)/gohanfuture4.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Gohan Futuro(593)/gohanfutre2.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958508kawdz5ffs",
+    "name": "Gohan SSJ2",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 2890,
+    "description": "Arma tu figura de Gohan SSJ2 con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 233",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 233,
+    "buildHours": 1,
+    "images": [
+      "/Dragon Ball/1-Gohan SSJ2(233)/gs21.webp",
+      "/Dragon Ball/1-Gohan SSJ2(233)/gs22.webp",
+      "/Dragon Ball/1-Gohan SSJ2(233)/gs23.webp",
+      "/Dragon Ball/1-Gohan SSJ2(233)/gs24.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Gohan SSJ2(233)/gs21.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958508lftbn51re",
+    "name": "Goku 16cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 6090,
+    "description": "Arma tu figura de Goku 16cm con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 503",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 503,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Goku 16cm(503)/angle_000.webp",
+      "/Dragon Ball/1-Goku 16cm(503)/angle_045.webp",
+      "/Dragon Ball/1-Goku 16cm(503)/angle_090.webp",
+      "/Dragon Ball/1-Goku 16cm(503)/angle_135.webp",
+      "/Dragon Ball/1-Goku 16cm(503)/angle_180.webp",
+      "/Dragon Ball/1-Goku 16cm(503)/angle_225.webp",
+      "/Dragon Ball/1-Goku 16cm(503)/angle_270.webp",
+      "/Dragon Ball/1-Goku 16cm(503)/angle_315.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Goku 16cm(503)/angle_000.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958508rs5hifa67",
+    "name": "Goku Niño",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 7490,
+    "description": "Arma tu figura de Goku Niño con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 616",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 616,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Goku Niño(616)/gn1.webp",
+      "/Dragon Ball/1-Goku Niño(616)/gn2.webp",
+      "/Dragon Ball/1-Goku Niño(616)/gn3.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Goku Niño(616)/gn1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509ktbuo9019",
+    "name": "Majin Vegeta",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 6290,
+    "description": "Arma tu figura de Majin Vegeta con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 516",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 516,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Majin Vegeta(516)/mv1.webp",
+      "/Dragon Ball/1-Majin Vegeta(516)/mv2.webp",
+      "/Dragon Ball/1-Majin Vegeta(516)/mv3.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Majin Vegeta(516)/mv1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509gxmaqaz3r",
+    "name": "Perfect Cell",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 5890,
+    "description": "Arma tu figura de Perfect Cell con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 490",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 490,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Perfect Cell(490)/cell.webp",
+      "/Dragon Ball/1-Perfect Cell(490)/cell2.webp",
+      "/Dragon Ball/1-Perfect Cell(490)/cell3.webp",
+      "/Dragon Ball/1-Perfect Cell(490)/cell4.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Perfect Cell(490)/cell.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509meit08osd",
+    "name": "Shenron",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 7890,
+    "description": "Arma tu figura de Shenron con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 657",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 657,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Shenron(657)/shenron (1).webp",
+      "/Dragon Ball/1-Shenron(657)/shenron (2).webp",
+      "/Dragon Ball/1-Shenron(657)/shenron (3).webp",
+      "/Dragon Ball/1-Shenron(657)/shenron (7).webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Shenron(657)/shenron (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509210nbbxqe",
+    "name": "Vegeto Blue",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Dragon Ball",
+    "price": 6890,
+    "description": "Arma tu figura de Vegeto Blue con este kit de magickblocks Dragon Ball. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 573",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 573,
+    "buildHours": 2,
+    "images": [
+      "/Dragon Ball/1-Vegeto Blue(573)/vegeto2.webp",
+      "/Dragon Ball/1-Vegeto Blue(573)/vegeto3.webp",
+      "/Dragon Ball/1-Vegeto Blue(573)/vegeto4.webp"
+    ],
+    "mainImage": "/Dragon Ball/1-Vegeto Blue(573)/vegeto2.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509cvomqldif",
+    "name": "Thresh Forajido",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "League of Legends",
+    "price": 7290,
+    "description": "Arma tu figura de Thresh Forajido con este kit de magickblocks League of Legends. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 600",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 600,
+    "buildHours": 2,
+    "images": [
+      "/League of Legends/1- Thresh Forajido(600)/thresh2.png",
+      "/League of Legends/1- Thresh Forajido(600)/thresh3.png",
+      "/League of Legends/1- Thresh Forajido(600)/thresh4.png",
+      "/League of Legends/1- Thresh Forajido(600)/threso1.png"
+    ],
+    "mainImage": "/League of Legends/1- Thresh Forajido(600)/thresh2.png",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509glp8aygof",
+    "name": "Kaisa",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "League of Legends",
+    "price": 4690,
+    "description": "Arma tu figura de Kaisa con este kit de magickblocks League of Legends. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 390",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 390,
+    "buildHours": 1,
+    "images": [
+      "/League of Legends/1-Kaisa(390)/kaisa.webp",
+      "/League of Legends/1-Kaisa(390)/ksai.webp"
+    ],
+    "mainImage": "/League of Legends/1-Kaisa(390)/kaisa.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509z9j5vnyt2",
+    "name": "Lee Sin",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "League of Legends",
+    "price": 6690,
+    "description": "Arma tu figura de Lee Sin con este kit de magickblocks League of Legends. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 555",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 555,
+    "buildHours": 2,
+    "images": [
+      "/League of Legends/1-Lee Sin(555)/leesin1.webp",
+      "/League of Legends/1-Lee Sin(555)/leesin2.webp",
+      "/League of Legends/1-Lee Sin(555)/leesin3.webp",
+      "/League of Legends/1-Lee Sin(555)/leessin5.webp"
+    ],
+    "mainImage": "/League of Legends/1-Lee Sin(555)/leesin1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509jiqeerf5d",
+    "name": "Sion",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "League of Legends",
+    "price": 9190,
+    "description": "Arma tu figura de Sion con este kit de magickblocks League of Legends. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 765",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 765,
+    "buildHours": 3,
+    "images": [
+      "/League of Legends/1-Sion(765)/sion1.webp",
+      "/League of Legends/1-Sion(765)/sion3.webp",
+      "/League of Legends/1-Sion(765)/sion5.webp",
+      "/League of Legends/1-Sion(765)/sion6.webp"
+    ],
+    "mainImage": "/League of Legends/1-Sion(765)/sion1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958509m4bazabdl",
+    "name": "Velkoz",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "League of Legends",
+    "price": 10790,
+    "description": "Arma tu figura de Velkoz con este kit de magickblocks League of Legends. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 891",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 891,
+    "buildHours": 3,
+    "images": [
+      "/League of Legends/1-Velkoz(891)/velkoz1.webp",
+      "/League of Legends/1-Velkoz(891)/velkoz2.webp",
+      "/League of Legends/1-Velkoz(891)/velkoz4.webp",
+      "/League of Legends/1-Velkoz(891)/velkoz5.webp"
+    ],
+    "mainImage": "/League of Legends/1-Velkoz(891)/velkoz1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958510cp48uclih",
+    "name": "Chavo del 8",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 5690,
+    "description": "Arma tu figura de Chavo del 8 con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 469",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 469,
+    "buildHours": 2,
+    "images": [
+      "/Otros/1-Chavo del 8(469)/chavo(1).webp",
+      "/Otros/1-Chavo del 8(469)/chavo(2).webp",
+      "/Otros/1-Chavo del 8(469)/chavo(3).webp",
+      "/Otros/1-Chavo del 8(469)/chavo(4).webp"
+    ],
+    "mainImage": "/Otros/1-Chavo del 8(469)/chavo(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958510r1j4ueapg",
+    "name": "Chimuelo",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 9190,
+    "description": "Arma tu figura de Chimuelo con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 762",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 762,
+    "buildHours": 3,
+    "images": [
+      "/Otros/1-Chimuelo(762)/chimuelo (1).webp",
+      "/Otros/1-Chimuelo(762)/chimuelo (2).webp",
+      "/Otros/1-Chimuelo(762)/chimuelo (3).webp",
+      "/Otros/1-Chimuelo(762)/chimuelo (5).webp"
+    ],
+    "mainImage": "/Otros/1-Chimuelo(762)/chimuelo (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958510lbydco5sy",
+    "name": "Duffman",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 9190,
+    "description": "Arma tu figura de Duffman con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 760",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 760,
+    "buildHours": 3,
+    "images": [
+      "/Otros/1-Duffman(760)/duffman1.webp",
+      "/Otros/1-Duffman(760)/duffman2.webp",
+      "/Otros/1-Duffman(760)/duffman3.webp",
+      "/Otros/1-Duffman(760)/duffman4.webp"
+    ],
+    "mainImage": "/Otros/1-Duffman(760)/duffman1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "177145795851015apfuu6s",
+    "name": "Ezzio Auditore",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 11790,
+    "description": "Arma tu figura de Ezzio Auditore con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 980",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 980,
+    "buildHours": 3,
+    "images": [
+      "/Otros/1-Ezzio Auditore(980)/ezzio (1).webp",
+      "/Otros/1-Ezzio Auditore(980)/ezzio (2).webp",
+      "/Otros/1-Ezzio Auditore(980)/ezzio (3).webp",
+      "/Otros/1-Ezzio Auditore(980)/ezzio (5).webp"
+    ],
+    "mainImage": "/Otros/1-Ezzio Auditore(980)/ezzio (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585104vfadcwkz",
+    "name": "Frieren 12cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 10490,
+    "description": "Arma tu figura de Frieren 12cm con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 874",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 874,
+    "buildHours": 3,
+    "images": [
+      "/Otros/1-Frieren 12cm(874)/angle_000.webp",
+      "/Otros/1-Frieren 12cm(874)/angle_090.webp",
+      "/Otros/1-Frieren 12cm(874)/angle_135.webp",
+      "/Otros/1-Frieren 12cm(874)/angle_180.webp"
+    ],
+    "mainImage": "/Otros/1-Frieren 12cm(874)/angle_000.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585106lk5ngcev",
+    "name": "Furia Luminosa",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 9190,
+    "description": "Arma tu figura de Furia Luminosa con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 762",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 762,
+    "buildHours": 3,
+    "images": [
+      "/Otros/1-Furia Luminosa(762)/chimuela (1).webp",
+      "/Otros/1-Furia Luminosa(762)/chimuela (2).webp",
+      "/Otros/1-Furia Luminosa(762)/chimuela (3).webp",
+      "/Otros/1-Furia Luminosa(762)/chimuela (5).webp"
+    ],
+    "mainImage": "/Otros/1-Furia Luminosa(762)/chimuela (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958510wr9z5tdzv",
+    "name": "Juan Carlos Bodoque",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 8790,
+    "description": "Arma tu figura de Juan Carlos Bodoque con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 732",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 732,
+    "buildHours": 2,
+    "images": [
+      "/Otros/1-Juan Carlos Bodoque(732)/bodoque(1).webp",
+      "/Otros/1-Juan Carlos Bodoque(732)/bodoque(2).webp",
+      "/Otros/1-Juan Carlos Bodoque(732)/bodoque(3).webp",
+      "/Otros/1-Juan Carlos Bodoque(732)/bodoque(4).webp"
+    ],
+    "mainImage": "/Otros/1-Juan Carlos Bodoque(732)/bodoque(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585111mjmxrvh0",
+    "name": "Luffy_grande 21cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 19790,
+    "description": "Arma tu figura de Luffy_grande 21cm con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 1644",
+      "Tiempo de Armado: 5 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 1644,
+    "buildHours": 5,
+    "images": [
+      "/Otros/1-Luffy_grande 21cm(1644)/angle_000.webp",
+      "/Otros/1-Luffy_grande 21cm(1644)/angle_135.webp",
+      "/Otros/1-Luffy_grande 21cm(1644)/angle_180.webp",
+      "/Otros/1-Luffy_grande 21cm(1644)/angle_270.webp"
+    ],
+    "mainImage": "/Otros/1-Luffy_grande 21cm(1644)/angle_000.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958511orpfapf1p",
+    "name": "Senko",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 7790,
+    "description": "Arma tu figura de Senko con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 646",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 646,
+    "buildHours": 2,
+    "images": [
+      "/Otros/1-Senko(646)/senko1.webp",
+      "/Otros/1-Senko(646)/senko2.webp",
+      "/Otros/1-Senko(646)/senko3.webp"
+    ],
+    "mainImage": "/Otros/1-Senko(646)/senko1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958511nb0b0xq9s",
+    "name": "Spiderman",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Otros",
+    "price": 5890,
+    "description": "Arma tu figura de Spiderman con este kit de magickblocks Otros. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 487",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 487,
+    "buildHours": 2,
+    "images": [
+      "/Otros/1-Spiderman(487)/spider(1).webp",
+      "/Otros/1-Spiderman(487)/spider(2).webp",
+      "/Otros/1-Spiderman(487)/spider(3).webp",
+      "/Otros/1-Spiderman(487)/spider(5).webp"
+    ],
+    "mainImage": "/Otros/1-Spiderman(487)/spider(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958511h5zi0jg57",
+    "name": "Absol 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7190,
+    "description": "Arma tu figura de Absol 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 598",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 598,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Absol 9cm(598)/absol.webp",
+      "/Pokémon/1-Absol 9cm(598)/absol1.webp",
+      "/Pokémon/1-Absol 9cm(598)/absol2.webp"
+    ],
+    "mainImage": "/Pokémon/1-Absol 9cm(598)/absol.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958511frgsti0xo",
+    "name": "Ampharos 12cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6690,
+    "description": "Arma tu figura de Ampharos 12cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 556",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 556,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Ampharos 12cm(556)/Amph1.webp",
+      "/Pokémon/1-Ampharos 12cm(556)/Amph2.webp",
+      "/Pokémon/1-Ampharos 12cm(556)/Amph3.webp",
+      "/Pokémon/1-Ampharos 12cm(556)/Amph4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Ampharos 12cm(556)/Amph1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958511f4p52s7o7",
+    "name": "Arceus 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6990,
+    "description": "Arma tu figura de Arceus 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 578",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 578,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Arceus 9cm(578)/Arceus(1).webp",
+      "/Pokémon/1-Arceus 9cm(578)/Arceus(3).webp",
+      "/Pokémon/1-Arceus 9cm(578)/Arceus(7).webp",
+      "/Pokémon/1-Arceus 9cm(578)/Arceus(8).webp"
+    ],
+    "mainImage": "/Pokémon/1-Arceus 9cm(578)/Arceus(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585121nernjxru",
+    "name": "Blastoise 12cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 17390,
+    "description": "Arma tu figura de Blastoise 12cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 1444",
+      "Tiempo de Armado: 5 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 1444,
+    "buildHours": 5,
+    "images": [
+      "/Pokémon/1-Blastoise 12cm(1444)/blastoise(1).webp",
+      "/Pokémon/1-Blastoise 12cm(1444)/blastoise(2).webp",
+      "/Pokémon/1-Blastoise 12cm(1444)/blastoise(3).webp",
+      "/Pokémon/1-Blastoise 12cm(1444)/blastoise(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Blastoise 12cm(1444)/blastoise(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958512fv6lxfd7a",
+    "name": "Buizel 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6190,
+    "description": "Arma tu figura de Buizel 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 510",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 510,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Buizel 9cm(510)/buizel(1).webp",
+      "/Pokémon/1-Buizel 9cm(510)/buizel(2).webp",
+      "/Pokémon/1-Buizel 9cm(510)/buizel(3).webp"
+    ],
+    "mainImage": "/Pokémon/1-Buizel 9cm(510)/buizel(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958512d4aal0bd2",
+    "name": "Bulbasaur 6cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6090,
+    "description": "Arma tu figura de Bulbasaur 6cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 500",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 500,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Bulbasaur 6cm(500)/bulbasaur(1).webp",
+      "/Pokémon/1-Bulbasaur 6cm(500)/bulbasaur(2).webp",
+      "/Pokémon/1-Bulbasaur 6cm(500)/bulbasaur(3).webp",
+      "/Pokémon/1-Bulbasaur 6cm(500)/bulbasaur(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Bulbasaur 6cm(500)/bulbasaur(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585120zmsx3uyc",
+    "name": "Carterpie 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6390,
+    "description": "Arma tu figura de Carterpie 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 530",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 530,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Carterpie 9cm(530)/cater(1).webp",
+      "/Pokémon/1-Carterpie 9cm(530)/cater(2).webp",
+      "/Pokémon/1-Carterpie 9cm(530)/cater(3).webp",
+      "/Pokémon/1-Carterpie 9cm(530)/cater(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Carterpie 9cm(530)/cater(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958512vjxx6n3i3",
+    "name": "Charizard 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 15590,
+    "description": "Arma tu figura de Charizard 10cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 1297",
+      "Tiempo de Armado: 4 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 1297,
+    "buildHours": 4,
+    "images": [
+      "/Pokémon/1-Charizard 10cm(1297)/charizard1.webp",
+      "/Pokémon/1-Charizard 10cm(1297)/charizard2.webp",
+      "/Pokémon/1-Charizard 10cm(1297)/charizard3.webp"
+    ],
+    "mainImage": "/Pokémon/1-Charizard 10cm(1297)/charizard1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585120o9pgbohc",
+    "name": "Charmander 7cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5290,
+    "description": "Arma tu figura de Charmander 7cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 435",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 435,
+    "buildHours": 1,
+    "images": [
+      "/Pokémon/1-Charmander 7cm(435)/char(1).webp",
+      "/Pokémon/1-Charmander 7cm(435)/char(2).webp",
+      "/Pokémon/1-Charmander 7cm(435)/char(3).webp",
+      "/Pokémon/1-Charmander 7cm(435)/char(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Charmander 7cm(435)/char(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958512xjiqoaw6j",
+    "name": "Chespin 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6890,
+    "description": "Arma tu figura de Chespin 10cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 572",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 572,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Chespin 10cm(572)/chespin (1).webp",
+      "/Pokémon/1-Chespin 10cm(572)/chespin (2).webp",
+      "/Pokémon/1-Chespin 10cm(572)/chespin (3).webp",
+      "/Pokémon/1-Chespin 10cm(572)/chespin (4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Chespin 10cm(572)/chespin (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585137yoof5sye",
+    "name": "Chikorita 7cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6290,
+    "description": "Arma tu figura de Chikorita 7cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 516",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 516,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Chikorita 7cm(516)/Chikor1.webp",
+      "/Pokémon/1-Chikorita 7cm(516)/Chikor2.webp",
+      "/Pokémon/1-Chikorita 7cm(516)/Chikor3.webp",
+      "/Pokémon/1-Chikorita 7cm(516)/Chikor4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Chikorita 7cm(516)/Chikor1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958513no43gh6j9",
+    "name": "Chimchar 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5190,
+    "description": "Arma tu figura de Chimchar 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 432",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 432,
+    "buildHours": 1,
+    "images": [
+      "/Pokémon/1-Chimchar 9cm(432)/chimchar.webp",
+      "/Pokémon/1-Chimchar 9cm(432)/chimchar2.webp",
+      "/Pokémon/1-Chimchar 9cm(432)/chimchar3.webp"
+    ],
+    "mainImage": "/Pokémon/1-Chimchar 9cm(432)/chimchar.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958513b5jwqi3l9",
+    "name": "Cyndaquil 7cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6290,
+    "description": "Arma tu figura de Cyndaquil 7cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 524",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 524,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Cyndaquil 7cm(524)/cin(1).webp",
+      "/Pokémon/1-Cyndaquil 7cm(524)/cin(2).webp",
+      "/Pokémon/1-Cyndaquil 7cm(524)/cin(3).webp",
+      "/Pokémon/1-Cyndaquil 7cm(524)/cin(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Cyndaquil 7cm(524)/cin(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958513x84nmi19e",
+    "name": "Eevee 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6490,
+    "description": "Arma tu figura de Eevee 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 533",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 533,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Eevee 8cm(533)/ev(1).webp",
+      "/Pokémon/1-Eevee 8cm(533)/ev(2).webp",
+      "/Pokémon/1-Eevee 8cm(533)/ev(3).webp",
+      "/Pokémon/1-Eevee 8cm(533)/ev(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Eevee 8cm(533)/ev(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958513k0sv92qb4",
+    "name": "Espeon 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6190,
+    "description": "Arma tu figura de Espeon 10cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 515",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 515,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Espeon 10cm(515)/espeon1.webp",
+      "/Pokémon/1-Espeon 10cm(515)/espeon2.webp",
+      "/Pokémon/1-Espeon 10cm(515)/espeon3.webp",
+      "/Pokémon/1-Espeon 10cm(515)/espeon4.webp",
+      "/Pokémon/1-Espeon 10cm(515)/espeon5.webp"
+    ],
+    "mainImage": "/Pokémon/1-Espeon 10cm(515)/espeon1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "177145795851366u06l8lb",
+    "name": "Fennekin 6cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7390,
+    "description": "Arma tu figura de Fennekin 6cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 614",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 614,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Fennekin 6cm(614)/fen(1).webp",
+      "/Pokémon/1-Fennekin 6cm(614)/fen(2).webp",
+      "/Pokémon/1-Fennekin 6cm(614)/fen(3).webp",
+      "/Pokémon/1-Fennekin 6cm(614)/fen(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Fennekin 6cm(614)/fen(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958513vnlo8ou65",
+    "name": "Flareon 7cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6490,
+    "description": "Arma tu figura de Flareon 7cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 534",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 534,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Flareon 7cm(534)/flar(1).webp",
+      "/Pokémon/1-Flareon 7cm(534)/flar(2).webp",
+      "/Pokémon/1-Flareon 7cm(534)/flar(3).webp",
+      "/Pokémon/1-Flareon 7cm(534)/flar(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Flareon 7cm(534)/flar(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958513y08mr4leu",
+    "name": "Flygon 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5890,
+    "description": "Arma tu figura de Flygon 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 486",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 486,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Flygon 9cm(486)/fly1 (1).webp",
+      "/Pokémon/1-Flygon 9cm(486)/fly1 (2).webp"
+    ],
+    "mainImage": "/Pokémon/1-Flygon 9cm(486)/fly1 (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958513ptc8z2133",
+    "name": "Froakie 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 8390,
+    "description": "Arma tu figura de Froakie 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 694",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 694,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Froakie 8cm(694)/(1).webp",
+      "/Pokémon/1-Froakie 8cm(694)/(2).webp",
+      "/Pokémon/1-Froakie 8cm(694)/(3).webp",
+      "/Pokémon/1-Froakie 8cm(694)/(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Froakie 8cm(694)/(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585132zwgsdcvf",
+    "name": "Fuecoco 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6890,
+    "description": "Arma tu figura de Fuecoco 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 572",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 572,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Fuecoco 9cm(572)/f(1).webp",
+      "/Pokémon/1-Fuecoco 9cm(572)/f(2).webp",
+      "/Pokémon/1-Fuecoco 9cm(572)/f(3).webp",
+      "/Pokémon/1-Fuecoco 9cm(572)/f(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Fuecoco 9cm(572)/f(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585144ihbelc74",
+    "name": "Gengar 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6590,
+    "description": "Arma tu figura de Gengar 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 541",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 541,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Gengar 9cm(541)/gengar(1).webp",
+      "/Pokémon/1-Gengar 9cm(541)/gengar(2).webp",
+      "/Pokémon/1-Gengar 9cm(541)/gengar(3).webp",
+      "/Pokémon/1-Gengar 9cm(541)/gengar(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Gengar 9cm(541)/gengar(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958514zbcfitjqo",
+    "name": "Glaceon 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6390,
+    "description": "Arma tu figura de Glaceon 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 531",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 531,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Glaceon 9cm(531)/glaceon1.webp",
+      "/Pokémon/1-Glaceon 9cm(531)/glaceon2.webp",
+      "/Pokémon/1-Glaceon 9cm(531)/glaceon3.webp",
+      "/Pokémon/1-Glaceon 9cm(531)/glaceon4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Glaceon 9cm(531)/glaceon1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958514kbfztxwtj",
+    "name": "Grookey 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7190,
+    "description": "Arma tu figura de Grookey 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 599",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 599,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Grookey 9cm(599)/g(1).webp",
+      "/Pokémon/1-Grookey 9cm(599)/g(2).webp",
+      "/Pokémon/1-Grookey 9cm(599)/g(3).webp",
+      "/Pokémon/1-Grookey 9cm(599)/g(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Grookey 9cm(599)/g(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958514hbv54ts15",
+    "name": "Growlithe 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6290,
+    "description": "Arma tu figura de Growlithe 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 520",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 520,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Growlithe 8cm(520)/gr(1).webp",
+      "/Pokémon/1-Growlithe 8cm(520)/gr(2).webp",
+      "/Pokémon/1-Growlithe 8cm(520)/gr(3).webp",
+      "/Pokémon/1-Growlithe 8cm(520)/gr(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Growlithe 8cm(520)/gr(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585148lmuywuoo",
+    "name": "Gyarado 22cm largo",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 12890,
+    "description": "Arma tu figura de Gyarado 22cm largo con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 1074",
+      "Tiempo de Armado: 4 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 1074,
+    "buildHours": 4,
+    "images": [
+      "/Pokémon/1-Gyarado 22cm largo(1074)/gyarados1.webp",
+      "/Pokémon/1-Gyarado 22cm largo(1074)/gyarados4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Gyarado 22cm largo(1074)/gyarados1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "177145795851475djwltas",
+    "name": "Jigglypuff 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7690,
+    "description": "Arma tu figura de Jigglypuff 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 640",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 640,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Jigglypuff 8cm(640)/Jigglypuff (1).png",
+      "/Pokémon/1-Jigglypuff 8cm(640)/Jigglypuff (2).png",
+      "/Pokémon/1-Jigglypuff 8cm(640)/Jigglypuff (3).png",
+      "/Pokémon/1-Jigglypuff 8cm(640)/Jigglypuff (4).png"
+    ],
+    "mainImage": "/Pokémon/1-Jigglypuff 8cm(640)/Jigglypuff (1).png",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "177145795851474gxxs2fw",
+    "name": "Jolteon 6cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6390,
+    "description": "Arma tu figura de Jolteon 6cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 531",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 531,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Jolteon 6cm(531)/jolt1.webp",
+      "/Pokémon/1-Jolteon 6cm(531)/jolt2.webp",
+      "/Pokémon/1-Jolteon 6cm(531)/jolt3.webp",
+      "/Pokémon/1-Jolteon 6cm(531)/jolt4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Jolteon 6cm(531)/jolt1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515xaerxohc3",
+    "name": "Larvitar 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5090,
+    "description": "Arma tu figura de Larvitar 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 424",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 424,
+    "buildHours": 1,
+    "images": [
+      "/Pokémon/1-Larvitar 9cm(424)/larvitar.webp",
+      "/Pokémon/1-Larvitar 9cm(424)/larvitar2.webp",
+      "/Pokémon/1-Larvitar 9cm(424)/larvitar3.webp"
+    ],
+    "mainImage": "/Pokémon/1-Larvitar 9cm(424)/larvitar.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515u0n50jkwz",
+    "name": "Leafeon 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5590,
+    "description": "Arma tu figura de Leafeon 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 463",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 463,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Leafeon 9cm(463)/leafeon.webp",
+      "/Pokémon/1-Leafeon 9cm(463)/leafeon2.webp",
+      "/Pokémon/1-Leafeon 9cm(463)/leafeon3.webp",
+      "/Pokémon/1-Leafeon 9cm(463)/leafeon4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Leafeon 9cm(463)/leafeon.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515nj5g890pj",
+    "name": "Litten 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6490,
+    "description": "Arma tu figura de Litten 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 540",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 540,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Litten 8cm(540)/l(1).webp",
+      "/Pokémon/1-Litten 8cm(540)/l(2).webp",
+      "/Pokémon/1-Litten 8cm(540)/l(3).webp",
+      "/Pokémon/1-Litten 8cm(540)/l(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Litten 8cm(540)/l(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515x19ji2ekt",
+    "name": "Lopunny 11cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6390,
+    "description": "Arma tu figura de Lopunny 11cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 525",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 525,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Lopunny 11cm(525)/lopunny1.webp",
+      "/Pokémon/1-Lopunny 11cm(525)/lopunny2.webp",
+      "/Pokémon/1-Lopunny 11cm(525)/lopunny3.webp",
+      "/Pokémon/1-Lopunny 11cm(525)/lopunny5.webp"
+    ],
+    "mainImage": "/Pokémon/1-Lopunny 11cm(525)/lopunny1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515jg9bjlpfn",
+    "name": "Meowscarada 15cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 8190,
+    "description": "Arma tu figura de Meowscarada 15cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 678",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 678,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Meowscarada 15cm(678)/m(1).webp",
+      "/Pokémon/1-Meowscarada 15cm(678)/m(2).webp",
+      "/Pokémon/1-Meowscarada 15cm(678)/m(3).webp",
+      "/Pokémon/1-Meowscarada 15cm(678)/m(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Meowscarada 15cm(678)/m(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515r6cbspi9q",
+    "name": "Mewtwo 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7490,
+    "description": "Arma tu figura de Mewtwo 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 620",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 620,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Mewtwo 9cm(620)/mewtwo1.webp",
+      "/Pokémon/1-Mewtwo 9cm(620)/mewtwo2.webp",
+      "/Pokémon/1-Mewtwo 9cm(620)/mewtwo3.webp",
+      "/Pokémon/1-Mewtwo 9cm(620)/mewtwo4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Mewtwo 9cm(620)/mewtwo1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515pxc8voead",
+    "name": "Mudkip 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6990,
+    "description": "Arma tu figura de Mudkip 10cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 575",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 575,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Mudkip 10cm(575)/mudkp1.webp",
+      "/Pokémon/1-Mudkip 10cm(575)/mudkp2.webp",
+      "/Pokémon/1-Mudkip 10cm(575)/mudkp3.webp",
+      "/Pokémon/1-Mudkip 10cm(575)/mudkp4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Mudkip 10cm(575)/mudkp1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958515lp4hdauv7",
+    "name": "Nidoking 7cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6290,
+    "description": "Arma tu figura de Nidoking 7cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 521",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 521,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Nidoking 7cm(521)/nidoking1.webp",
+      "/Pokémon/1-Nidoking 7cm(521)/nidoking2.webp",
+      "/Pokémon/1-Nidoking 7cm(521)/nidoking3.webp"
+    ],
+    "mainImage": "/Pokémon/1-Nidoking 7cm(521)/nidoking1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958516j52x6kbho",
+    "name": "Nidoqueen 7cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6290,
+    "description": "Arma tu figura de Nidoqueen 7cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 520",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 520,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Nidoqueen 7cm(520)/nidoqueen1.webp",
+      "/Pokémon/1-Nidoqueen 7cm(520)/nidoqueen2.webp",
+      "/Pokémon/1-Nidoqueen 7cm(520)/nidoqueen3.webp"
+    ],
+    "mainImage": "/Pokémon/1-Nidoqueen 7cm(520)/nidoqueen1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958516cvdxsxw4p",
+    "name": "Oshowatt 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 8390,
+    "description": "Arma tu figura de Oshowatt 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 696",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 696,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Oshowatt 9cm(696)/o(1).webp",
+      "/Pokémon/1-Oshowatt 9cm(696)/o(2).webp",
+      "/Pokémon/1-Oshowatt 9cm(696)/o(3).webp",
+      "/Pokémon/1-Oshowatt 9cm(696)/o(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Oshowatt 9cm(696)/o(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958516tgk7uu6d8",
+    "name": "Pikachu 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5790,
+    "description": "Arma tu figura de Pikachu 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 480",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 480,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Pikachu 9cm(480)/pikachu (1).webp",
+      "/Pokémon/1-Pikachu 9cm(480)/pikachu (2).webp",
+      "/Pokémon/1-Pikachu 9cm(480)/pikachu (4).webp",
+      "/Pokémon/1-Pikachu 9cm(480)/pikachu (7).webp",
+      "/Pokémon/1-Pikachu 9cm(480)/pikachu (8).webp",
+      "/Pokémon/1-Pikachu 9cm(480)/pikachu (9).webp"
+    ],
+    "mainImage": "/Pokémon/1-Pikachu 9cm(480)/pikachu (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585162npvwuoph",
+    "name": "Piplup 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6590,
+    "description": "Arma tu figura de Piplup 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 544",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 544,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Piplup 8cm(544)/p(1).webp",
+      "/Pokémon/1-Piplup 8cm(544)/p(2).webp",
+      "/Pokémon/1-Piplup 8cm(544)/p(3).webp"
+    ],
+    "mainImage": "/Pokémon/1-Piplup 8cm(544)/p(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958516chj5exufq",
+    "name": "Poliwag 6cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5590,
+    "description": "Arma tu figura de Poliwag 6cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 460",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 460,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Poliwag 6cm(460)/poliwag1.webp",
+      "/Pokémon/1-Poliwag 6cm(460)/poliwag2.webp"
+    ],
+    "mainImage": "/Pokémon/1-Poliwag 6cm(460)/poliwag1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958516r1231ybow",
+    "name": "Popplio 7cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7390,
+    "description": "Arma tu figura de Popplio 7cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 608",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 608,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Popplio 7cm(608)/p(1).webp",
+      "/Pokémon/1-Popplio 7cm(608)/p(2).webp",
+      "/Pokémon/1-Popplio 7cm(608)/p(3).webp",
+      "/Pokémon/1-Popplio 7cm(608)/p(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Popplio 7cm(608)/p(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585161mfcio4pz",
+    "name": "Quaxly 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7790,
+    "description": "Arma tu figura de Quaxly 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 648",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 648,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Quaxly 9cm(648)/q(1).webp",
+      "/Pokémon/1-Quaxly 9cm(648)/q(2).webp",
+      "/Pokémon/1-Quaxly 9cm(648)/q(3).webp",
+      "/Pokémon/1-Quaxly 9cm(648)/q(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Quaxly 9cm(648)/q(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958516yrlryc01h",
+    "name": "Rayquaza 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7890,
+    "description": "Arma tu figura de Rayquaza 10cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 653",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 653,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Rayquaza 10cm(653)/r(1).webp",
+      "/Pokémon/1-Rayquaza 10cm(653)/r(2).webp",
+      "/Pokémon/1-Rayquaza 10cm(653)/r(4).webp",
+      "/Pokémon/1-Rayquaza 10cm(653)/r(5).webp"
+    ],
+    "mainImage": "/Pokémon/1-Rayquaza 10cm(653)/r(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958516v6urc1bwi",
+    "name": "Rowlet 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 9790,
+    "description": "Arma tu figura de Rowlet 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 809",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 809,
+    "buildHours": 3,
+    "images": [
+      "/Pokémon/1-Rowlet 8cm(809)/r(1).webp",
+      "/Pokémon/1-Rowlet 8cm(809)/r(2).webp",
+      "/Pokémon/1-Rowlet 8cm(809)/r(3).webp",
+      "/Pokémon/1-Rowlet 8cm(809)/r(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Rowlet 8cm(809)/r(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585169s99e3b4i",
+    "name": "Scorbunny 11cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6090,
+    "description": "Arma tu figura de Scorbunny 11cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 503",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 503,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Scorbunny 11cm(503)/sc(1).webp",
+      "/Pokémon/1-Scorbunny 11cm(503)/sc(2).webp",
+      "/Pokémon/1-Scorbunny 11cm(503)/sc(3).webp",
+      "/Pokémon/1-Scorbunny 11cm(503)/sc(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Scorbunny 11cm(503)/sc(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585161jcumqe4n",
+    "name": "Scyther 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6390,
+    "description": "Arma tu figura de Scyther 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 532",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 532,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Scyther 8cm(532)/sc(1).webp",
+      "/Pokémon/1-Scyther 8cm(532)/sc(2).webp",
+      "/Pokémon/1-Scyther 8cm(532)/sc(3).webp",
+      "/Pokémon/1-Scyther 8cm(532)/sc(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Scyther 8cm(532)/sc(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958517g8y631ck9",
+    "name": "Slowpoke 6cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5090,
+    "description": "Arma tu figura de Slowpoke 6cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 422",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 422,
+    "buildHours": 1,
+    "images": [
+      "/Pokémon/1-Slowpoke 6cm(422)/slow1.webp",
+      "/Pokémon/1-Slowpoke 6cm(422)/slow2.webp",
+      "/Pokémon/1-Slowpoke 6cm(422)/slow3.webp",
+      "/Pokémon/1-Slowpoke 6cm(422)/slow4.webp"
+    ],
+    "mainImage": "/Pokémon/1-Slowpoke 6cm(422)/slow1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958517hejpn772k",
+    "name": "Snivy 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6890,
+    "description": "Arma tu figura de Snivy 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 574",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 574,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Snivy 9cm(574)/sn(1).webp",
+      "/Pokémon/1-Snivy 9cm(574)/sn(2).webp",
+      "/Pokémon/1-Snivy 9cm(574)/sn(3).webp",
+      "/Pokémon/1-Snivy 9cm(574)/sn(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Snivy 9cm(574)/sn(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585176apb7g5k4",
+    "name": "Sobble 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6490,
+    "description": "Arma tu figura de Sobble 10cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 535",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 535,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Sobble 10cm(535)/sob(1).webp",
+      "/Pokémon/1-Sobble 10cm(535)/sob(2).webp",
+      "/Pokémon/1-Sobble 10cm(535)/sob(3).webp",
+      "/Pokémon/1-Sobble 10cm(535)/sob(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Sobble 10cm(535)/sob(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958517k38xrgi4z",
+    "name": "Sprigatito 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7790,
+    "description": "Arma tu figura de Sprigatito 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 648",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 648,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Sprigatito 9cm(648)/sp(1).webp",
+      "/Pokémon/1-Sprigatito 9cm(648)/sp(2).webp",
+      "/Pokémon/1-Sprigatito 9cm(648)/sp(3).webp",
+      "/Pokémon/1-Sprigatito 9cm(648)/sp(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Sprigatito 9cm(648)/sp(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585175awrrjh70",
+    "name": "Squirtle 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6890,
+    "description": "Arma tu figura de Squirtle 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 572",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 572,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Squirtle 8cm(572)/sq(1).webp",
+      "/Pokémon/1-Squirtle 8cm(572)/sq(2).webp",
+      "/Pokémon/1-Squirtle 8cm(572)/sq(3).webp",
+      "/Pokémon/1-Squirtle 8cm(572)/sq(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Squirtle 8cm(572)/sq(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585177d2v75n49",
+    "name": "Sylveon 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5590,
+    "description": "Arma tu figura de Sylveon 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 459",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 459,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Sylveon 9cm(459)/syl(1).webp",
+      "/Pokémon/1-Sylveon 9cm(459)/syl(2).webp",
+      "/Pokémon/1-Sylveon 9cm(459)/syl(3).webp",
+      "/Pokémon/1-Sylveon 9cm(459)/syl(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Sylveon 9cm(459)/syl(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958517ruga2xpgf",
+    "name": "Tepig 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 7690,
+    "description": "Arma tu figura de Tepig 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 637",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 637,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Tepig 9cm(637)/t (1).webp",
+      "/Pokémon/1-Tepig 9cm(637)/t (2).webp",
+      "/Pokémon/1-Tepig 9cm(637)/t (3).webp",
+      "/Pokémon/1-Tepig 9cm(637)/t (4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Tepig 9cm(637)/t (1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585172yjc3xccn",
+    "name": "Torchic 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5390,
+    "description": "Arma tu figura de Torchic 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 443",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 443,
+    "buildHours": 1,
+    "images": [
+      "/Pokémon/1-Torchic 9cm(443)/torchic1.webp",
+      "/Pokémon/1-Torchic 9cm(443)/torchic2.webp",
+      "/Pokémon/1-Torchic 9cm(443)/torchic3.webp"
+    ],
+    "mainImage": "/Pokémon/1-Torchic 9cm(443)/torchic1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585170w0ydph8w",
+    "name": "Totodile 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6990,
+    "description": "Arma tu figura de Totodile 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 576",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 576,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Totodile 8cm(576)/toto(1).webp",
+      "/Pokémon/1-Totodile 8cm(576)/toto(2).webp",
+      "/Pokémon/1-Totodile 8cm(576)/toto(3).webp",
+      "/Pokémon/1-Totodile 8cm(576)/toto(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Totodile 8cm(576)/toto(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958517yexlyrfaf",
+    "name": "Treecko 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 4890,
+    "description": "Arma tu figura de Treecko 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 406",
+      "Tiempo de Armado: 1 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 406,
+    "buildHours": 1,
+    "images": [
+      "/Pokémon/1-Treecko 8cm(406)/t(1).webp",
+      "/Pokémon/1-Treecko 8cm(406)/t(2).webp",
+      "/Pokémon/1-Treecko 8cm(406)/t(3).webp",
+      "/Pokémon/1-Treecko 8cm(406)/t(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Treecko 8cm(406)/t(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958517k0wtoa7c5",
+    "name": "Turtwig 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 5690,
+    "description": "Arma tu figura de Turtwig 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 472",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 472,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Turtwig 8cm(472)/tur(1).webp",
+      "/Pokémon/1-Turtwig 8cm(472)/tur(2).webp",
+      "/Pokémon/1-Turtwig 8cm(472)/tur(3).webp",
+      "/Pokémon/1-Turtwig 8cm(472)/tur(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Turtwig 8cm(472)/tur(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585184o47m2ogr",
+    "name": "Umbreon 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6690,
+    "description": "Arma tu figura de Umbreon 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 555",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 555,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Umbreon 8cm(555)/um(1).webp",
+      "/Pokémon/1-Umbreon 8cm(555)/um(2).webp",
+      "/Pokémon/1-Umbreon 8cm(555)/um(3).webp",
+      "/Pokémon/1-Umbreon 8cm(555)/um(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Umbreon 8cm(555)/um(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585182bnr1cv4v",
+    "name": "Vaporeon 8cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6090,
+    "description": "Arma tu figura de Vaporeon 8cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 502",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 502,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Vaporeon 8cm(502)/vap(1).webp",
+      "/Pokémon/1-Vaporeon 8cm(502)/vap(2).webp",
+      "/Pokémon/1-Vaporeon 8cm(502)/vap(3).webp",
+      "/Pokémon/1-Vaporeon 8cm(502)/vap(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Vaporeon 8cm(502)/vap(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958518urzsdc0zm",
+    "name": "Venasaur 11cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 23190,
+    "description": "Arma tu figura de Venasaur 11cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 1932",
+      "Tiempo de Armado: 6 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 1932,
+    "buildHours": 6,
+    "images": [
+      "/Pokémon/1-Venasaur 11cm(1932)/ven(1).webp",
+      "/Pokémon/1-Venasaur 11cm(1932)/ven(2).webp",
+      "/Pokémon/1-Venasaur 11cm(1932)/ven(3).webp",
+      "/Pokémon/1-Venasaur 11cm(1932)/ven(4).webp"
+    ],
+    "mainImage": "/Pokémon/1-Venasaur 11cm(1932)/ven(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958518kc9jfyyia",
+    "name": "Zorua 9cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon",
+    "price": 6190,
+    "description": "Arma tu figura de Zorua 9cm con este kit de magickblocks Pokémon. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 513",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 513,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/1-Zorua 9cm(513)/zorua(1).webp",
+      "/Pokémon/1-Zorua 9cm(513)/zorua(2).webp",
+      "/Pokémon/1-Zorua 9cm(513)/zorua(3).webp"
+    ],
+    "mainImage": "/Pokémon/1-Zorua 9cm(513)/zorua(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585189efl3qiii",
+    "name": "Aura 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon / Entrenadores",
+    "price": 7690,
+    "description": "Arma tu figura de Aura 10cm con este kit de magickblocks Pokémon / Entrenadores. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 634",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 634,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/Entrenadores/1-Aura 10cm(634)/a1.webp",
+      "/Pokémon/Entrenadores/1-Aura 10cm(634)/aura1.webp",
+      "/Pokémon/Entrenadores/1-Aura 10cm(634)/aura3.webp"
+    ],
+    "mainImage": "/Pokémon/Entrenadores/1-Aura 10cm(634)/a1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958518f2umufngo",
+    "name": "Bruno 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon / Entrenadores",
+    "price": 7590,
+    "description": "Arma tu figura de Bruno 10cm con este kit de magickblocks Pokémon / Entrenadores. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 625",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 625,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/Entrenadores/1-Bruno 10cm(625)/bruno1.webp",
+      "/Pokémon/Entrenadores/1-Bruno 10cm(625)/bruno2.webp",
+      "/Pokémon/Entrenadores/1-Bruno 10cm(625)/bruno3.webp"
+    ],
+    "mainImage": "/Pokémon/Entrenadores/1-Bruno 10cm(625)/bruno1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958518vu6fczg67",
+    "name": "Dawn 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon / Entrenadores",
+    "price": 6490,
+    "description": "Arma tu figura de Dawn 10cm con este kit de magickblocks Pokémon / Entrenadores. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 535",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 535,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/Entrenadores/1-Dawn 10cm(535)/dawn1.webp",
+      "/Pokémon/Entrenadores/1-Dawn 10cm(535)/dawn2.webp",
+      "/Pokémon/Entrenadores/1-Dawn 10cm(535)/dawn3.webp"
+    ],
+    "mainImage": "/Pokémon/Entrenadores/1-Dawn 10cm(535)/dawn1.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958518sx7x8gc7u",
+    "name": "Hilbert 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon / Entrenadores",
+    "price": 7290,
+    "description": "Arma tu figura de Hilbert 10cm con este kit de magickblocks Pokémon / Entrenadores. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 606",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 606,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/Entrenadores/1-Hilbert 10cm(606)/hilbert3.webp",
+      "/Pokémon/Entrenadores/1-Hilbert 10cm(606)/hilbert4.webp",
+      "/Pokémon/Entrenadores/1-Hilbert 10cm(606)/hilbert5.webp",
+      "/Pokémon/Entrenadores/1-Hilbert 10cm(606)/hilbert6.webp"
+    ],
+    "mainImage": "/Pokémon/Entrenadores/1-Hilbert 10cm(606)/hilbert3.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585187y4gnj8df",
+    "name": "Hilda 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon / Entrenadores",
+    "price": 7790,
+    "description": "Arma tu figura de Hilda 10cm con este kit de magickblocks Pokémon / Entrenadores. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 641",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 641,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/Entrenadores/1-Hilda 10cm(641)/hilda2.webp",
+      "/Pokémon/Entrenadores/1-Hilda 10cm(641)/hilda3.webp",
+      "/Pokémon/Entrenadores/1-Hilda 10cm(641)/hilda4.webp"
+    ],
+    "mainImage": "/Pokémon/Entrenadores/1-Hilda 10cm(641)/hilda2.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "17714579585189pgdquu4v",
+    "name": "Lucas 10cm",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Pokémon / Entrenadores",
+    "price": 6390,
+    "description": "Arma tu figura de Lucas 10cm con este kit de magickblocks Pokémon / Entrenadores. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 526",
+      "Tiempo de Armado: 2 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 526,
+    "buildHours": 2,
+    "images": [
+      "/Pokémon/Entrenadores/1-Lucas 10cm(526)/lucas2.webp",
+      "/Pokémon/Entrenadores/1-Lucas 10cm(526)/lucas3.webp",
+      "/Pokémon/Entrenadores/1-Lucas 10cm(526)/lucas5.webp"
+    ],
+    "mainImage": "/Pokémon/Entrenadores/1-Lucas 10cm(526)/lucas2.webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958519y52oa8zyf",
+    "name": "Kasane Teto",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Vocaloid",
+    "price": 9590,
+    "description": "Arma tu figura de Kasane Teto con este kit de magickblocks Vocaloid. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 796",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 796,
+    "buildHours": 3,
+    "images": [
+      "/Vocaloid/1-Kasane Teto(796)/kt(1).webp",
+      "/Vocaloid/1-Kasane Teto(796)/kt(2).webp",
+      "/Vocaloid/1-Kasane Teto(796)/kt(3).webp",
+      "/Vocaloid/1-Kasane Teto(796)/kt(4).webp"
+    ],
+    "mainImage": "/Vocaloid/1-Kasane Teto(796)/kt(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958519lgbwkorhp",
+    "name": "Miku",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Vocaloid",
+    "price": 15690,
+    "description": "Arma tu figura de Miku con este kit de magickblocks Vocaloid. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 1302",
+      "Tiempo de Armado: 4 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 1302,
+    "buildHours": 4,
+    "images": [
+      "/Vocaloid/1-Miku(1302)/hm(1).webp",
+      "/Vocaloid/1-Miku(1302)/hm(2).webp",
+      "/Vocaloid/1-Miku(1302)/hm(3).webp",
+      "/Vocaloid/1-Miku(1302)/hm(4).webp"
+    ],
+    "mainImage": "/Vocaloid/1-Miku(1302)/hm(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  },
+  {
+    "id": "1771457958519zi1hv7nca",
+    "name": "Teto Pera",
+    "type": "1",
+    "typeName": "Kit de Armado",
+    "category": "Vocaloid",
+    "price": 10490,
+    "description": "Arma tu figura de Teto Pera con este kit de magickblocks Vocaloid. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+    "specs": [
+      "Piezas: 872",
+      "Tiempo de Armado: 3 hora(s)",
+      "¡Diseño Exclusivo!",
+      "Para Mayores de 6 Años"
+    ],
+    "pieces": 872,
+    "buildHours": 3,
+    "images": [
+      "/Vocaloid/1-Teto Pera(872)/tetopera(1).webp",
+      "/Vocaloid/1-Teto Pera(872)/tetopera(2).webp",
+      "/Vocaloid/1-Teto Pera(872)/tetopera(3).webp",
+      "/Vocaloid/1-Teto Pera(872)/tetopera(4).webp"
+    ],
+    "mainImage": "/Vocaloid/1-Teto Pera(872)/tetopera(1).webp",
+    "isVariable": false,
+    "variableName": null,
+    "customPrice": null
+  }
+]

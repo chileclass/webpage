@@ -1,0 +1,37 @@
+{
+  "whatsapp": {
+    "numero": "56954678849"
+  },
+  "tipos": {
+    "1": {
+      "nombre": "Kit de Armado",
+      "descripcion": "Arma tu figura de {{name}} con este kit de magickblocks {{category}}. Incluye las piezas necesarias y el acceso a las plantillas digitales. Nota: El color real puede diferir.",
+      "precio": 12,
+      "precioPlantillaDigital": 1990,
+      "specs": [
+        "Piezas: {{pcs}}",
+        "Tiempo de Armado: {{hours}} hora(s)",
+        "¡Diseño Exclusivo!",
+        "Para Mayores de 6 Años"
+      ]
+    },
+    "2": {
+      "nombre": "Pack Color",
+      "descripcion": "Complementa tu experiencia con {{name}}. Elige el color y cuántos quieres. Nota: El color real puede diferir.",
+      "precio": 10,
+      "specs": [
+        "Para Mayores de 6 años"
+      ]
+    },
+    "3": {
+      "nombre": "Plantillas",
+      "descripcion": "Construye a {{name}} con tus piezas usando esta plantilla digital capa por capa. Incluye número de piezas y colores que debes obtener. Piezas no incluídas. De la categoría: {{category}}.",
+      "precio": 1990,
+      "specs": [
+        "Formato Digital",
+        "Piezas necesarias: {{pcs}}",
+        "Tiempo estimado: {{hours}} hora(s)"
+      ]
+    }
+  }
+}
