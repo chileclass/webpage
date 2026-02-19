@@ -63,10 +63,11 @@
       "Colores/2-Pack Colores/42.webp",
       "Colores/2-Pack Colores/SURTIDO.webp"
     ],
-    "totalVariants": 41
+    "totalVariants": 41,
+    "glbFile": null
   },
   {
-    "id": "17714880610849cnxblql9",
+    "id": "1771488688777cc8m3si6h",
     "name": "Bardock",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -90,10 +91,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Bardock(407)/Bardock.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610843upuxl4my",
+    "id": "177148868877756upb6sbu",
     "name": "Black Goku Rosé",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -118,10 +120,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Black Goku Rosé(509)/Goku Rosé.glb",
     "allVariants": []
   },
   {
-    "id": "177148806108525s6d4xyv",
+    "id": "17714886887770kfykq3ar",
     "name": "Broly",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -146,10 +149,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Broly(771)/Broly.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610852rolprwx2",
+    "id": "17714886887781a2ul6287",
     "name": "Gogeta Blue",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -174,10 +178,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Gogeta Blue(616)/Gogeta.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061085iil4oysk8",
+    "id": "1771488688778oxeqwzjxc",
     "name": "Gohan Futuro",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -202,10 +207,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Gohan Futuro(593)/Futuregohan.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061085jzpfu7ofk",
+    "id": "1771488688778ydeilunqd",
     "name": "Gohan SSJ2",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -230,10 +236,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Gohan SSJ2(233)/Gohanssj2.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061085anvjkspfl",
+    "id": "1771488688778i3wdnk9uz",
     "name": "Goku 16cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -262,10 +269,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Goku 16cm(503)/goku.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610853ik9rugv0",
+    "id": "1771488688778enhkv7mpt",
     "name": "Goku Niño",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -289,10 +297,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Goku Niño(616)/Gokuniño.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610853yjs135xk",
+    "id": "177148868877989g55ibqw",
     "name": "Majin Vegeta",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -316,10 +325,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Majin Vegeta(516)/Majinvegeta.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061086dj3yi1tpj",
+    "id": "1771488688779qg5jrzi0v",
     "name": "Perfect Cell",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -344,10 +354,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Perfect Cell(490)/Cell.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061086g2rr7tfb5",
+    "id": "1771488688779rumutwes3",
     "name": "Shenron",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -372,10 +383,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Shenron(657)/Shenron.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061086a5w7wqs0i",
+    "id": "1771488688779fnycyqntu",
     "name": "Vegeto Blue",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -399,10 +411,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Dragon Ball/1-Vegeto Blue(573)/Vegeto.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061086rav1gz4sv",
+    "id": "17714886887795oe3grt35",
     "name": "Thresh Forajido",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -427,10 +440,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "League of Legends/1- Thresh Forajido(600)/Thresh.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061086zk7d7cg5d",
+    "id": "177148868877985jnl096e",
     "name": "Kaisa",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -453,10 +467,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": null,
     "allVariants": []
   },
   {
-    "id": "1771488061086azh1rh0o6",
+    "id": "1771488688780595fbtkrs",
     "name": "Lee Sin",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -481,10 +496,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "League of Legends/1-Lee Sin(555)/Leesin.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061086ctzzp880n",
+    "id": "17714886887802krk7jvg3",
     "name": "Sion",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -509,10 +525,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "League of Legends/1-Sion(765)/Sion.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610865helzsc9a",
+    "id": "1771488688780ki0xq25ky",
     "name": "Velkoz",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -537,10 +554,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "League of Legends/1-Velkoz(891)/Velkoz.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061087ghrhj0ai2",
+    "id": "17714886887802ap8796wg",
     "name": "Afro Luffy 21cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -565,10 +583,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Afro Luffy 21cm(1644)/Afro Luffy.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061087s6tnbg8gs",
+    "id": "1771488688780ga8tbiseo",
     "name": "Chavo del 8",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -593,10 +612,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Chavo del 8(469)/Chavo del 8.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610878etjchc2p",
+    "id": "1771488688780fybc3uw9j",
     "name": "Chimuelo",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -621,10 +641,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Chimuelo(762)/Chimuelo.glb",
     "allVariants": []
   },
   {
-    "id": "177148806108789gqyy3or",
+    "id": "1771488688781fy97p2x37",
     "name": "Duffman",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -649,10 +670,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": null,
     "allVariants": []
   },
   {
-    "id": "1771488061087gla3jwzow",
+    "id": "1771488688781cq842l2n5",
     "name": "Ezzio Auditore",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -677,10 +699,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Ezzio Auditore(980)/Ezzio Auditore.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061087ml82i011z",
+    "id": "17714886887819wgbbmzsa",
     "name": "Frieren 12cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -705,10 +728,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Frieren 12cm(874)/Frieren.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610885lymei2n3",
+    "id": "1771488688781mqot1rix2",
     "name": "Furia Luminosa",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -733,10 +757,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Furia Luminosa(762)/Chimuela.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061088iw2e9ue48",
+    "id": "17714886887817cp2a1x7m",
     "name": "Juan Carlos Bodoque",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -761,10 +786,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Juan Carlos Bodoque(732)/Juancarlosbodoque.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061088n521pg8qz",
+    "id": "17714886887816vjr6epfx",
     "name": "Senko",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -788,10 +814,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Senko(646)/Senko.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061088fjplszx8t",
+    "id": "1771488688781k8igzw9o1",
     "name": "Spiderman",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -816,10 +843,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Otros/1-Spiderman(487)/Spiderman.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061088ner0cucvd",
+    "id": "1771488688782snxwpk8rd",
     "name": "Absol 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -843,10 +871,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Absol 9cm(598)/Absol.glb",
     "allVariants": []
   },
   {
-    "id": "177148806108810ablqg5p",
+    "id": "1771488688782e3lczlpk9",
     "name": "Ampharos 12cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -871,10 +900,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Ampharos 12cm(556)/Ampharos.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061088uqcmvqbgj",
+    "id": "1771488688782ykw6rmzfq",
     "name": "Arceus 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -899,10 +929,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Arceus 9cm(578)/Arceus.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610888pyfp3ee3",
+    "id": "17714886887827ha4y0w1l",
     "name": "Blastoise 12cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -927,10 +958,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Blastoise 12cm(1444)/Blastoise.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610897wx51rgpb",
+    "id": "1771488688782627l5d7t7",
     "name": "Buizel 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -954,10 +986,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Buizel 9cm(510)/Buizel.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061089kw50xsc5x",
+    "id": "17714886887827jl6f7cul",
     "name": "Bulbasaur 6cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -982,10 +1015,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Bulbasaur 6cm(500)/Bulbasaur.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061089365s7tu2o",
+    "id": "1771488688783mhfvhf4rc",
     "name": "Carterpie 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1010,10 +1044,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Carterpie 9cm(530)/Caterpie.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061089fmsfmq1mp",
+    "id": "17714886887834bzmjzzqa",
     "name": "Charizard 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1037,10 +1072,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Charizard 10cm(1297)/Charizard.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061089ln3j06b5y",
+    "id": "177148868878350agnvanw",
     "name": "Charmander 7cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1065,10 +1101,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Charmander 7cm(435)/Charmander.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610895apoxq1o3",
+    "id": "1771488688783tdzrhg7o8",
     "name": "Chespin 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1093,10 +1130,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Chespin 10cm(572)/Chespin.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061089w5xdfzv1n",
+    "id": "1771488688783c54lhoe11",
     "name": "Chikorita 7cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1121,10 +1159,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Chikorita 7cm(516)/Chikorita.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061089zhbxcxqme",
+    "id": "177148868878363st0v0zi",
     "name": "Chimchar 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1148,10 +1187,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Chimchar 9cm(432)/Chimchar.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610899d4juvtsh",
+    "id": "17714886887849qzqasizd",
     "name": "Cyndaquil 7cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1176,10 +1216,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Cyndaquil 7cm(524)/Cyndaquil.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090mvnvle2bl",
+    "id": "1771488688784na0mpo9el",
     "name": "Eevee 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1204,10 +1245,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Eevee 8cm(533)/Eevee.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090dv1lyx32b",
+    "id": "17714886887842ycr948tx",
     "name": "Espeon 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1233,10 +1275,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Espeon 10cm(515)/Espeon.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090nhg1w553d",
+    "id": "177148868878434h8cd73o",
     "name": "Fennekin 6cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1261,10 +1304,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Fennekin 6cm(614)/Fennekin.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090vhn2hudu5",
+    "id": "1771488688784ra50ddoer",
     "name": "Flareon 7cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1289,10 +1333,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Flareon 7cm(534)/Flareon.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610909nnqtwxw4",
+    "id": "1771488688784pvrv327xm",
     "name": "Flygon 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1315,10 +1360,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Flygon 9cm(486)/Flygon.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090ln4e9m13e",
+    "id": "1771488688785zd8hfc0sm",
     "name": "Froakie 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1343,10 +1389,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Froakie 8cm(694)/Froakie.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090r2454496w",
+    "id": "17714886887855hk5no43z",
     "name": "Fuecoco 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1371,10 +1418,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Fuecoco 9cm(572)/Fuecoco.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090rxn93srrl",
+    "id": "1771488688785sq9ftnbz1",
     "name": "Gengar 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1399,10 +1447,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Gengar 9cm(541)/gengar.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090jm8imww9a",
+    "id": "1771488688785mtr8fwr08",
     "name": "Glaceon 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1427,10 +1476,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Glaceon 9cm(531)/Glaceon.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090ppeqw7321",
+    "id": "1771488688786066zqoitf",
     "name": "Grookey 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1455,10 +1505,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Grookey 9cm(599)/Grookey.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061090kvtop22nl",
+    "id": "1771488688786llm840fc5",
     "name": "Growlithe 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1483,10 +1534,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Growlithe 8cm(520)/Growlithe.glb",
     "allVariants": []
   },
   {
-    "id": "177148806109103ti0cyl6",
+    "id": "1771488688786qc0hrlhry",
     "name": "Gyarado 22cm largo",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1509,10 +1561,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Gyarado 22cm largo(1074)/Gyarados.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061091rg0taeilv",
+    "id": "177148868878640tq57atc",
     "name": "Jigglypuff 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1537,10 +1590,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Jigglypuff 8cm(640)/jigglypuff.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610912ubv5a4yd",
+    "id": "17714886887860hant6zdz",
     "name": "Jolteon 6cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1565,10 +1619,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Jolteon 6cm(531)/Jolteon.glb",
     "allVariants": []
   },
   {
-    "id": "177148806109154qifabz5",
+    "id": "17714886887862li6aewdr",
     "name": "Larvitar 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1592,10 +1647,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Larvitar 9cm(424)/Larvitar.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061092yjvm605w4",
+    "id": "1771488688786nzqp3odhz",
     "name": "Leafeon 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1620,10 +1676,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Leafeon 9cm(463)/Leafeon.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061092mqli1yy0g",
+    "id": "17714886887870ui9xy7gw",
     "name": "Litten 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1648,10 +1705,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Litten 8cm(540)/Litten.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061092ruo6y4yc6",
+    "id": "1771488688787gbxdk4l39",
     "name": "Lopunny 11cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1676,10 +1734,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Lopunny 11cm(525)/Lopuny.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061092aqd3ski6x",
+    "id": "1771488688787x37uygxrv",
     "name": "Meowscarada 15cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1704,10 +1763,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Meowscarada 15cm(678)/Meowscarada.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061092p59fw3p5c",
+    "id": "1771488688787ubb9uz5wo",
     "name": "Mewtwo 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1732,10 +1792,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Mewtwo 9cm(620)/Mewtwo.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061092dcq00duxm",
+    "id": "1771488688787ruhiyjh6u",
     "name": "Mudkip 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1760,10 +1821,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Mudkip 10cm(575)/Mudkip.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610927f4rfzsh9",
+    "id": "1771488688787m62sokbfb",
     "name": "Nidoking 7cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1787,10 +1849,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Nidoking 7cm(521)/Nidoking.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061092b9htywgx7",
+    "id": "17714886887873z2kdy87d",
     "name": "Nidoqueen 7cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1814,10 +1877,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Nidoqueen 7cm(520)/Nidoqueen.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610932lxazh6pi",
+    "id": "1771488688788vhupgidmb",
     "name": "Oshowatt 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1842,10 +1906,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Oshowatt 9cm(696)/Oshowatt.glb",
     "allVariants": []
   },
   {
-    "id": "177148806109341lh4imov",
+    "id": "17714886887880py90mwze",
     "name": "Pikachu 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1872,10 +1937,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Pikachu 9cm(480)/pikachu2.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061093z9rz5r2vj",
+    "id": "1771488688788y33euodzv",
     "name": "Piplup 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1899,10 +1965,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Piplup 8cm(544)/Piplup.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061093zb7fkxbvu",
+    "id": "17714886887881rvjrllhg",
     "name": "Poliwag 6cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1925,10 +1992,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Poliwag 6cm(460)/Poliwag.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610933omnhmqvy",
+    "id": "17714886887882jeezk49z",
     "name": "Popplio 7cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1953,10 +2021,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Popplio 7cm(608)/Popplio.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061093neja0htmp",
+    "id": "1771488688788voiwqki50",
     "name": "Quaxly 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -1981,10 +2050,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Quaxly 9cm(648)/Quaxly.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610933pnppaky1",
+    "id": "1771488688789xlbzjf7io",
     "name": "Rayquaza 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2009,10 +2079,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Rayquaza 10cm(653)/Rayquaza.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061093wwibwblzj",
+    "id": "17714886887892zpy2v1k8",
     "name": "Rowlet 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2037,10 +2108,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Rowlet 8cm(809)/Rowlet.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061093jakhkf4ym",
+    "id": "1771488688789mutjlylsd",
     "name": "Scorbunny 11cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2065,10 +2137,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Scorbunny 11cm(503)/Scorbunny.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061093tx692qia2",
+    "id": "1771488688789piqfqpxi1",
     "name": "Scyther 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2093,10 +2166,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Scyther 8cm(532)/Scyther.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061093xdctlegph",
+    "id": "1771488688789cqr68h3t1",
     "name": "Slowpoke 6cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2121,10 +2195,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Slowpoke 6cm(422)/Slowpoke.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094u1rz8ymo6",
+    "id": "17714886887895m078eomp",
     "name": "Snivy 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2149,10 +2224,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Snivy 9cm(574)/Snivy.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094fefnweqf5",
+    "id": "17714886887898rmytuyxx",
     "name": "Sobble 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2177,10 +2253,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Sobble 10cm(535)/Sobble.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094toxtzecq8",
+    "id": "1771488688790qivq3tfz9",
     "name": "Sprigatito 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2205,10 +2282,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Sprigatito 9cm(648)/Sprigatito.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094b3jd04io1",
+    "id": "1771488688790hcl9dkcgn",
     "name": "Squirtle 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2233,10 +2311,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Squirtle 8cm(572)/Squirtle.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610947inykkhid",
+    "id": "17714886887906x1k0y6w2",
     "name": "Sylveon 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2261,10 +2340,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Sylveon 9cm(459)/Sylveon.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094eafvzw3b1",
+    "id": "177148868879008vxndsar",
     "name": "Tepig 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2289,10 +2369,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Tepig 9cm(637)/Tepig.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094oye0rzvrm",
+    "id": "17714886887900hsonjyaw",
     "name": "Torchic 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2316,10 +2397,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Torchic 9cm(443)/Torchic.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094ojneco0vy",
+    "id": "1771488688790n8evqn22n",
     "name": "Totodile 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2344,10 +2426,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Totodile 8cm(576)/Totodile.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061094m6xsqebll",
+    "id": "1771488688791nwpqjhllk",
     "name": "Treecko 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2372,10 +2455,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Treecko 8cm(406)/Treecko.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061095ytjfaddo0",
+    "id": "17714886887919a2hzails",
     "name": "Turtwig 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2400,10 +2484,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Turtwig 8cm(472)/Turtwig.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061095ow9ta0tc2",
+    "id": "1771488688791a16hvrv2r",
     "name": "Umbreon 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2428,10 +2513,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Umbreon 8cm(555)/Umbreon.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061095ynr4exlfa",
+    "id": "1771488688791n6igk32xo",
     "name": "Vaporeon 8cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2456,10 +2542,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Vaporeon 8cm(502)/Vaporeon.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061095rbfxfh1w5",
+    "id": "1771488688791gzyn1l0i6",
     "name": "Venasaur 11cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2484,10 +2571,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Venasaur 11cm(1932)/Venasaur.glb",
     "allVariants": []
   },
   {
-    "id": "177148806109547xgig7sq",
+    "id": "1771488688792tsioqsami",
     "name": "Zorua 9cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2511,10 +2599,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/1-Zorua 9cm(513)/Zorua.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061095fwxz820gw",
+    "id": "17714886887921wnzaunui",
     "name": "Aura 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2538,10 +2627,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/Entrenadores/1-Aura 10cm(634)/Aura.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061095lsk3eiby5",
+    "id": "1771488688792fft2kvkaw",
     "name": "Bruno 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2565,10 +2655,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/Entrenadores/1-Bruno 10cm(625)/Bruno.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610951v8qo5gn5",
+    "id": "1771488688792tukzaedjy",
     "name": "Dawn 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2592,10 +2683,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/Entrenadores/1-Dawn 10cm(535)/Dawn.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610952xeckei00",
+    "id": "1771488688793gc0hvkse5",
     "name": "Hilbert 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2620,10 +2712,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/Entrenadores/1-Hilbert 10cm(606)/Hilbert.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061095xegbg8966",
+    "id": "1771488688793ntd61jvrk",
     "name": "Hilda 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2647,10 +2740,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": null,
     "allVariants": []
   },
   {
-    "id": "17714880610964ighn0imb",
+    "id": "17714886887937iuswdm0t",
     "name": "Lucas 10cm",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2674,10 +2768,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Pokémon/Entrenadores/1-Lucas 10cm(526)/Lukas.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061096gai624pvk",
+    "id": "1771488688794p9228ce2e",
     "name": "Kasane Teto",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2702,10 +2797,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Vocaloid/1-Kasane Teto(796)/Kasaneteto.glb",
     "allVariants": []
   },
   {
-    "id": "1771488061096n13f3kkm3",
+    "id": "1771488688794ri2ggqvrm",
     "name": "Miku",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2730,10 +2826,11 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Vocaloid/1-Miku(1302)/Mikuvox.glb",
     "allVariants": []
   },
   {
-    "id": "17714880610964f9xdoeaz",
+    "id": "1771488688794ibwgl3xmv",
     "name": "Teto Pera",
     "type": "1",
     "typeName": "Kit de Armado",
@@ -2758,6 +2855,7 @@
     "isVariable": false,
     "variableName": null,
     "customPrice": null,
+    "glbFile": "Vocaloid/1-Teto Pera(872)/Tetopear.glb",
     "allVariants": []
   }
 ]
