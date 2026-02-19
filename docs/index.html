@@ -11,10 +11,32 @@
 <body>
     <header class="header">
         <div class="container">
-            <h1 class="logo">Catálogo de Productos</h1>
+            <h1 class="logo">
+                <img
+                    src="./title"
+                    alt="Catálogo de Productos"
+                    class="logo-image"
+                    width="480"
+                    height="80"
+                    loading="eager"
+                    fetchpriority="high"
+                    onerror="this.closest('h1').classList.add('logo-fallback'); this.remove();"
+                >
+                <span class="logo-fallback-text">Catálogo de Productos</span>
+            </h1>
             <p class="tagline">Descubre nuestros productos</p>
         </div>
     </header>
+
+    <!-- ═══════════════════════════════════════════════════════
+         BANNER DE ANUNCIOS
+         Las imágenes van en /banner/ — config en banner.js
+         ═══════════════════════════════════════════════════════ -->
+    <section class="banner-section" aria-label="Anuncios y ofertas">
+        <div id="bannerWrapper" class="banner-wrapper">
+            <!-- Los slides se inyectan dinámicamente por banner.js -->
+        </div>
+    </section>
 
     <main class="main-content">
         <div class="container">
@@ -120,6 +142,7 @@
     </div>
 
     <script>window.STATIC_MODE = true;</script>
+    <script src="./banner.js"></script>
     <script src="./script.js"></script>
 </body>
 </html>
