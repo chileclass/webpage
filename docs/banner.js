@@ -29,26 +29,32 @@ const BANNER_CONFIG = {
  */
 const SLIDES = [
   {
-    image:  "banner1.jpg",
+    image:  "banner1.webp",
     alt:    "Oferta especial — 20% de descuento en kits de armado",
     link:   null,
     target: "_self",
   },
   {
-    image:  "banner2.jpg",
+    image:  "banner2.webp",
     alt:    "Nuevos packs de colores disponibles",
     link:   null,
     target: "_self",
   },
   {
-    image:  "banner3.jpg",
+    image:  "banner3.webp",
+    alt:    "Descargá nuestras plantillas digitales gratis",
+    link:   null,
+    target: "_self",
+  },
+  {
+    image:  "banner4.webp",
     alt:    "Descargá nuestras plantillas digitales gratis",
     link:   null,
     target: "_self",
   },
   // ── Agregá más slides acá ──────────────────────────────────────
   // {
-  //   image:  "banner4.jpg",
+  //   image:  "banner4.png",
   //   alt:    "Descripción del anuncio",
   //   link:   "#productsSection",   // o una URL completa
   //   target: "_self",
