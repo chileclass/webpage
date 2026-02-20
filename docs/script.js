@@ -323,6 +323,22 @@ async function loadProducts() {
         renderProducts(allProducts);
         grid.classList.remove('loading');
         grid.classList.add('loaded');
+
+        // ── Abrir producto desde URL (?producto=slug) ──────────────────────
+        // Las páginas individuales redirigen a ../../?producto=slug,
+        // y aquí detectamos ese parámetro para abrir el modal automáticamente.
+        const params = new URLSearchParams(window.location.search);
+        const slug   = params.get('producto');
+        if (slug) {
+            const match = allProducts.find(p => p.slug === slug);
+            if (match) {
+                setTimeout(() => showProductDetails(match.id), 80);
+            }
+            // Limpiar la URL para que no quede el parámetro visible
+            window.history.replaceState(null, '', window.location.pathname);
+        }
+        // ──────────────────────────────────────────────────────────────────
+
     } catch (error) {
         console.error('Error:', error);
         grid.innerHTML = `<div class="no-results"><p>Error al cargar los productos.</p></div>`;

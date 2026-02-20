@@ -25,153 +25,58 @@
   "category": "Colores",
   "offers": {
     "@type": "Offer",
-    "priceCurrency": "CLP",
+    "priceCurrency": "ARS",
     "price": 10,
     "availability": "https://schema.org/InStock"
   }
 }
   </script>
 
-  <!-- Estilos del sitio principal -->
-  <link rel="stylesheet" href="../../styles.css" />
-
   <style>
-    /* Estilos básicos de la página de producto.
-       Podés expandirlos o moverlos a styles.css */
-    body { font-family: sans-serif; margin: 0; padding: 0; }
-    .product-page { max-width: 960px; margin: 2rem auto; padding: 1rem; }
-    .product-page__back { display: inline-block; margin-bottom: 1.5rem; color: inherit; text-decoration: none; }
-    .product-page__back:hover { text-decoration: underline; }
-    .product-page__gallery { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
-    .product-page__gallery img { width: 200px; height: 200px; object-fit: cover; border-radius: 8px; }
-    .product-page__price { font-size: 2rem; font-weight: bold; margin: 1rem 0; }
-    .product-page__category { color: #888; font-size: .9rem; margin-bottom: .5rem; }
-    .product-page__description { line-height: 1.6; margin-bottom: 1rem; }
-    .product-page__specs { padding-left: 1.2rem; }
-    .product-page__specs li { margin-bottom: .4rem; }
+    /* Pantalla de carga mientras se redirige */
+    body { margin: 0; font-family: sans-serif; background: #fff; }
+    .seo-loading {
+      display: flex; flex-direction: column; align-items: center;
+      justify-content: center; min-height: 100vh; gap: 1rem; color: #555;
+    }
+    .seo-loading__spinner {
+      width: 40px; height: 40px; border: 3px solid #eee;
+      border-top-color: #555; border-radius: 50%;
+      animation: spin .7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
 
-    /* Bloque "Información adicional" */
-    .product-page__extra { margin-top: 2rem; border-top: 1px solid #e0e0e0; padding-top: 1rem; }
-    .product-page__extra summary {
-      cursor: pointer;
-      font-weight: bold;
-      font-size: 1rem;
-      padding: .6rem .8rem;
-      border-radius: 6px;
-      background: #f5f5f5;
-      list-style: none;
-      display: flex;
-      align-items: center;
-      gap: .5rem;
-      user-select: none;
-    }
-    .product-page__extra summary::-webkit-details-marker { display: none; }
-    .product-page__extra summary::before { content: '▶'; font-size: .75rem; transition: transform .2s; }
-    .product-page__extra[open] summary::before { transform: rotate(90deg); }
-    .product-page__extra summary:hover { background: #ebebeb; }
-    .product-page__extra__body {
-      margin-top: 1rem;
-      line-height: 1.7;
-      white-space: pre-wrap;   /* respeta saltos de línea del .txt */
-      color: #333;
-    }
+    /* Contenido SEO: oculto visualmente pero legible para Google */
+    .seo-content { display: none; }
   </style>
 </head>
 <body>
 
-  <div class="product-page">
-    <a class="product-page__back" href="../../">← Volver al catálogo</a>
-
-    <p class="product-page__category">Colores · Pack Color</p>
-    <h1>Pack Colores</h1>
-
-    <!-- Galería de imágenes -->
-    <div class="product-page__gallery">
-      <img src="../../Colores/2-Pack Colores/01.webp" alt="Pack Colores" loading="lazy" />
-    </div>
-
-    <p class="product-page__price">$10</p>
-
-    <p class="product-page__description">Complementa tu experiencia con Pack Colores. Elige el color y cuántos quieres. Nota: El color real puede diferir.</p>
-
-    <ul class="product-page__specs">
-            <li>Para Mayores de 6 años</li>
-          </ul>
-
-    
+  <!-- Lo que ve el visitante humano: spinner mientras se carga el catálogo -->
+  <div class="seo-loading" aria-hidden="true">
+    <div class="seo-loading__spinner"></div>
+    <p>Cargando producto…</p>
   </div>
 
-  <!-- Datos del producto disponibles para script.js si lo necesitás -->
+  <!-- Lo que lee Google: contenido completo del producto en el DOM -->
+  <div class="seo-content">
+    <h1>Pack Colores</h1>
+    <p>Colores · Pack Color</p>
+    <p>$10</p>
+    <p>Complementa tu experiencia con Pack Colores. Elige el color y cuántos quieres. Nota: El color real puede diferir.</p>
+    <ul><li>Para Mayores de 6 años</li></ul>
+    
+    <div><img src="../../Colores/2-Pack Colores/01.webp" alt="Pack Colores"></div>
+  </div>
+
   <script>
-    window.PRODUCT_DATA = {
-  "id": "2-PackColores-0",
-  "name": "Pack Colores",
-  "type": "2",
-  "typeName": "Pack Color",
-  "category": "Colores",
-  "price": 10,
-  "description": "Complementa tu experiencia con Pack Colores. Elige el color y cuántos quieres. Nota: El color real puede diferir.",
-  "specs": [
-    "Para Mayores de 6 años"
-  ],
-  "pieces": 1,
-  "buildHours": 0,
-  "images": [
-    "Colores/2-Pack Colores/01.webp"
-  ],
-  "mainImage": "Colores/2-Pack Colores/01.webp",
-  "isVariable": true,
-  "variableName": "Standard",
-  "customPrice": null,
-  "parentProduct": "2-Pack Colores",
-  "allVariants": [
-    "Colores/2-Pack Colores/01.webp",
-    "Colores/2-Pack Colores/02.webp",
-    "Colores/2-Pack Colores/03.webp",
-    "Colores/2-Pack Colores/04.webp",
-    "Colores/2-Pack Colores/05.webp",
-    "Colores/2-Pack Colores/06.webp",
-    "Colores/2-Pack Colores/07.webp",
-    "Colores/2-Pack Colores/08.webp",
-    "Colores/2-Pack Colores/09.webp",
-    "Colores/2-Pack Colores/10.webp",
-    "Colores/2-Pack Colores/11.webp",
-    "Colores/2-Pack Colores/12.webp",
-    "Colores/2-Pack Colores/13.webp",
-    "Colores/2-Pack Colores/14.webp",
-    "Colores/2-Pack Colores/15.webp",
-    "Colores/2-Pack Colores/16.webp",
-    "Colores/2-Pack Colores/17.webp",
-    "Colores/2-Pack Colores/18.webp",
-    "Colores/2-Pack Colores/19.webp",
-    "Colores/2-Pack Colores/20.webp",
-    "Colores/2-Pack Colores/21.webp",
-    "Colores/2-Pack Colores/22.webp",
-    "Colores/2-Pack Colores/23.webp",
-    "Colores/2-Pack Colores/24.webp",
-    "Colores/2-Pack Colores/26.webp",
-    "Colores/2-Pack Colores/27.webp",
-    "Colores/2-Pack Colores/28.webp",
-    "Colores/2-Pack Colores/29.webp",
-    "Colores/2-Pack Colores/30.webp",
-    "Colores/2-Pack Colores/31.webp",
-    "Colores/2-Pack Colores/32.webp",
-    "Colores/2-Pack Colores/33.webp",
-    "Colores/2-Pack Colores/34.webp",
-    "Colores/2-Pack Colores/35.webp",
-    "Colores/2-Pack Colores/36.webp",
-    "Colores/2-Pack Colores/38.webp",
-    "Colores/2-Pack Colores/39.webp",
-    "Colores/2-Pack Colores/40.webp",
-    "Colores/2-Pack Colores/41.webp",
-    "Colores/2-Pack Colores/42.webp",
-    "Colores/2-Pack Colores/SURTIDO.webp"
-  ],
-  "totalVariants": 41,
-  "glbFile": null,
-  "extraDescription": null,
-  "slug": "pack-colores"
-};
+    // Redirigir al catálogo y abrir el modal del producto automáticamente.
+    // La página del catálogo leerá ?producto= y abrirá el modal correspondiente.
+    (function () {
+      var slug = "pack-colores";
+      var base = '../../';
+      window.location.replace(base + '?producto=' + encodeURIComponent(slug));
+    })();
   </script>
 
 </body>
