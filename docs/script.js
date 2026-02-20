@@ -675,6 +675,11 @@ function showProductDetails(productId) {
 
     document.getElementById('productModal').classList.add('show');
     document.body.style.overflow = 'hidden';
+
+    // Actualizar la URL para que sea compartible y funcione con F5
+    if (product.slug) {
+        history.pushState({ productoSlug: product.slug }, '', '?producto=' + encodeURIComponent(product.slug));
+    }
 }
 
 
@@ -881,6 +886,8 @@ function closeModal() {
     document.getElementById('productModal').classList.remove('show');
     document.body.style.overflow = 'auto';
     currentImageIndex = 0;
+    // Restaurar la URL limpia al cerrar el modal
+    history.pushState(null, '', window.location.pathname);
 }
 
 // Soporte para teclas de navegación
@@ -898,13 +905,23 @@ document.addEventListener('keydown', function(e) {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-    loadCart(); // ✅ CARGAR CARRITO AL INICIAR
-    loadConfig(); // ✅ CARGAR CONFIGURACIÓN
+    loadCart();
+    loadConfig();
     loadProducts();
     document.getElementById('searchInput').addEventListener('input', filterProducts);
     document.getElementById('categoryFilter').addEventListener('change', filterProducts);
     document.querySelector('.close-modal').addEventListener('click', closeModal);
     window.addEventListener('click', (e) => { if (e.target.id === 'productModal') closeModal(); });
+
+    // Botón atrás del navegador: cerrar modal si está abierto
+    window.addEventListener('popstate', function(e) {
+        const modal = document.getElementById('productModal');
+        if (modal.classList.contains('show')) {
+            modal.classList.remove('show');
+            document.body.style.overflow = 'auto';
+            currentImageIndex = 0;
+        }
+    });
 });
 
 // ✅ CARGAR CONFIGURACIÓN DESDE EL SERVIDOR O ARCHIVO ESTÁTICO
