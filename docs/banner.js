@@ -25,32 +25,38 @@ const BANNER_CONFIG = {
  *  - target   {string}  "_self" (mismo tab) o "_blank" (nueva pestaña)
  *
  * Ejemplo de enlace a sección interna:  link: "#productsSection"
- * Ejemplo de enlace externo:            link: "https://wa.me/...", target: "_blank"
+ * Ejemplo de enlace externo:            link: "https://web.whatsapp.com/send/?phone=56954678849&text"
  */
 const SLIDES = [
   {
     image:  "banner1.webp",
-    alt:    "Oferta especial — 20% de descuento en kits de armado",
+    alt:    "Nuestros diseños son exclusivos. No existen en otro lugar.",
     link:   null,
     target: "_self",
   },
   {
     image:  "banner2.webp",
-    alt:    "Nuevos packs de colores disponibles",
+    alt:    "Tenemos diseños a pedido del cliente.",
     link:   null,
     target: "_self",
   },
   {
     image:  "banner3.webp",
-    alt:    "Descargá nuestras plantillas digitales gratis",
+    alt:    "Envíos a todo Chile por BlueExpres desde $3990 o gratis sobre $40.000",
     link:   null,
     target: "_self",
   },
   {
     image:  "banner4.webp",
-    alt:    "Descargá nuestras plantillas digitales gratis",
+    alt:    "¡Aprovecha los packs y paga menos!",
     link:   null,
     target: "_self",
+  },
+  {
+    image:  "banner5.webp",
+    alt:    "Contáctanos por Whatsapp +56954678849",
+    link:   "https://web.whatsapp.com/send/?phone=56954678849&text",
+    target: "_blank",
   },
   // ── Agregá más slides acá ──────────────────────────────────────
   // {
